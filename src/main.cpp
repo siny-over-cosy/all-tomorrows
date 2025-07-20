@@ -2,12 +2,14 @@
 #include <ctime>
 #include "date.hpp"
 #include <iostream>
+#include <Magick++.h>
 #include <ratio>
+#include "render.hpp"
 
 using std::chrono::system_clock;
 
 int main() {
   std::string tomorrow{get_tomorrow()};
 
-  std::cout << tomorrow <<'\n';
+  render_img(tomorrow); 
 }
