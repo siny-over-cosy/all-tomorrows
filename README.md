@@ -22,7 +22,7 @@ This will compile the executable to run the program. The executable will be name
 4. Run the executable.
 5. **You can use a file manager for this step.** Go to the project's `img/` directory and open `output.png`. The result should be the meme with tomorrow's date.
 
-### Download executable
+### Download Executable
 This method is easier than the manual build method but I haven't tested it myself. The main reason I recommend the manual build method first is because I'm not sure if there will be directory-navigating problems in this method since, again, I haven't tested it myself.
 1. Download the latest release version. There will be one for Windows systems and one for Linux systems.
 2. Unzip the folder.
