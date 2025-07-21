@@ -1,6 +1,6 @@
 # all-tomorrows
 
-> [!NOTICE]
+> [!WARNING]
 > The base program is finished. However, I haven't yet implemented the build system.
 > More will be explained in the [Build](#build) section of this README.
 
